@@ -5,9 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <metahost.h> 
-#include <evntprov.h>
-
 #pragma comment (lib, "advapi32")
 #pragma comment(lib, "mscoree.lib")
 
