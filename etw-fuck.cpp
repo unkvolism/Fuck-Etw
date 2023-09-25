@@ -49,7 +49,6 @@ BOOL UnhookNTDLL(const HMODULE hNtdll, const LPVOID pMapping) {
             return 0;
         }
     }
-    // .text section not found?
     return -1;
 }
 
